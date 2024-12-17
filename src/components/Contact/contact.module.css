@@ -1,0 +1,14 @@
+.text {
+  display: flex;
+  gap: 10px;
+  flex-direction: row;
+}
+
+.wrap {
+  margin-right: auto;
+}
+
+.delete {
+  padding: 7px;
+  box-sizing: border-box;
+}
