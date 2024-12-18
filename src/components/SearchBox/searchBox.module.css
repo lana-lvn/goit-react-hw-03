@@ -1,0 +1,11 @@
+.wrap {
+  margin-bottom: 20px;
+}
+
+.input {
+  width: 100%;
+
+  @media screen and (min-width: 885px) {
+    width: 262px;
+  }
+}
