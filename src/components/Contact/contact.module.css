@@ -11,5 +11,9 @@
 
 .delete {
   padding: 7px;
-  box-sizing: border-box;
+}
+
+.delete:hover {
+  color: red;
+  cursor: pointer;
 }
